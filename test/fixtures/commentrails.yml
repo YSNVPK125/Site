@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  generate: MyString
+  model: MyString
+  Comment: MyString
+  commenter: MyString
+  body: MyText
+  post: 
+
+two:
+  generate: MyString
+  model: MyString
+  Comment: MyString
+  commenter: MyString
+  body: MyText
+  post: 
